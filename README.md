@@ -12,6 +12,6 @@ Homepage:  http://irc.cs.sdu.edu.cn/2015-summer-school/
 - [glutdlls37beta](https://www.opengl.org/resources/libraries/glut/glutdlls37beta.zip)
 
 #### 教程 ####
-参阅DATA\ARToolKit_DIY_doc文档，或[ ARToolKit增强现实实践文档](http://imbinwang.github.io/blog/simple-ar-diy/)
+参阅DATA\ARToolKit_DIY_doc文档，或[ ARToolKit增强现实实践文档](http://imbinwang.github.io/blog/simple-ar-diy)
 
 Have fun.
