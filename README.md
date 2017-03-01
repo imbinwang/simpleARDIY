@@ -7,7 +7,7 @@ Author(s): Interdisciplinary Research Center, School of Computer Science and Tec
 Homepage:  http://irc.cs.sdu.edu.cn/2015-summer-school/
 
 #### 编译环境和第三方库 ####
-- [VS2010 百度云](http://pan.baidu.com/s/1o6IcqoE)，[VS2013 Express](https://www.visualstudio.com/zh-cn/downloads/download-visual-studio-vs.aspx)
+- Windows Visual Studio
 - [ARToolKit](http://www.artoolkit.org/download-artoolkit-sdk)
 - [glutdlls37beta](https://www.opengl.org/resources/libraries/glut/glutdlls37beta.zip)
 
