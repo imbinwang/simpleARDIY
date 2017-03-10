@@ -7,11 +7,11 @@ Author(s): Interdisciplinary Research Center, School of Computer Science and Tec
 Homepage:  http://irc.cs.sdu.edu.cn/2015-summer-school/
 
 #### 编译环境和第三方库 ####
-- Windows Visual Studio
+- Win + Visual Studio
 - [ARToolKit](http://www.artoolkit.org/download-artoolkit-sdk)
 - [glutdlls37beta](https://www.opengl.org/resources/libraries/glut/glutdlls37beta.zip)
 
 #### 教程 ####
-参阅DATA\ARToolKit_DIY_doc文档，或[ ARToolKit增强现实实践文档](http://imbinwang.github.io/blog/simple-ar-diy)
+参阅DATA\ARToolKit_DIY_doc文档，或[ ARToolKit增强现实实践文档](https://imbinwang.github.io/research/2015/07/14/simple-ar-diy.html)
 
 Have fun.
